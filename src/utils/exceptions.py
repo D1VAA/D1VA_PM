@@ -1,0 +1,2 @@
+class FileNameConflict(Exception):
+    pass
